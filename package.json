@@ -1,6 +1,7 @@
 {
-  "name": "nextjs-boilerplate",
+  "name": "next-staking",
   "version": "0.1.0",
+  "description": "Minimal Next.js app with fanbase staking widget integration",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -11,7 +12,6 @@
   "dependencies": {
     "fanbase-staking-widget": "^1.0.4",
     "next": "13.5.4",
-    "next-transpile-modules": "^10.0.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
@@ -20,7 +20,6 @@
     "@types/react": "18.2.28",
     "eslint": "7.32.0",
     "eslint-config-next": "13.5.4",
-    "typescript": "5.2.2",
-    "webpack": "^5.89.0"
+    "typescript": "5.2.2"
   }
 }
